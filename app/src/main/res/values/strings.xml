@@ -6,4 +6,5 @@
     <string name="error_title">Oops, we made a mistake.</string>
     <string name="error_mesages">An Error has occured. Please try again.</string>
     <string name="error_ok_button_text">OK</string>
+    <string name="network_unavailible_message">Network is unavailible.</string>
 </resources>
